@@ -1,0 +1,13 @@
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\TestProject.API.deps.json
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\TestProject.API.runtimeconfig.json
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\TestProject.API.runtimeconfig.dev.json
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\TestProject.API.dll
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\TestProject.API.pdb
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\obj\Debug\netcoreapp1.1\TestProject.API.csprojResolveAssemblyReference.cache
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\obj\Debug\netcoreapp1.1\TestProject.API.AssemblyInfo.cs
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\obj\Debug\netcoreapp1.1\TestProject.API.dll
+c:\users\ns\documents\visual studio 2017\Projects\TestProject\TestProject.API\obj\Debug\netcoreapp1.1\TestProject.API.pdb
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\Test1Model.dll
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\Test1Services.dll
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\Test1Model.pdb
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\TestProject.API\bin\Debug\netcoreapp1.1\Test1Services.pdb

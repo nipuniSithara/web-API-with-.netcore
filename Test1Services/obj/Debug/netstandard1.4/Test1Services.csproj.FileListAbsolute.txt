@@ -1,0 +1,9 @@
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\bin\Debug\netstandard1.4\Test1Services.deps.json
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\bin\Debug\netstandard1.4\Test1Model.dll
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\obj\Debug\netstandard1.4\Test1Services.csprojResolveAssemblyReference.cache
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\obj\Debug\netstandard1.4\Test1Services.AssemblyInfo.cs
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\bin\Debug\netstandard1.4\Test1Services.dll
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\bin\Debug\netstandard1.4\Test1Services.pdb
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\bin\Debug\netstandard1.4\Test1Model.pdb
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\obj\Debug\netstandard1.4\Test1Services.dll
+C:\Users\NS\Documents\Visual Studio 2017\Projects\TestProject\Test1Services\obj\Debug\netstandard1.4\Test1Services.pdb
